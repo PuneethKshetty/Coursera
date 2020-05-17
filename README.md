@@ -6,13 +6,13 @@ This repository contains my solutions to the assignments of the Coursera course
 ## Assignments
 
 ### Module 2
-* [Solution]()
+* [Solution]("https://puneethkshetty.github.io/Coursera/.")
 
 ### Module 3
-* [Solution]()
+* [Solution]("https://puneethkshetty.github.io/Coursera/.")
 
 ### Module 4
-* [Solution]
+* [Solution](https://puneethkshetty.github.io/Coursera/.")
 
 ### Module 5
-* [Solution]
+* [Solution]("https://puneethkshetty.github.io/Coursera/.")
