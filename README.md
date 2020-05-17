@@ -15,4 +15,4 @@ This repository contains my solutions to the assignments of the Coursera course
 * [Solution](https://puneethkshetty.github.io/Coursera/.)
 
 ### Module 5
-* [Solution](https://puneethkshetty.github.io/Coursera/module5/index.html.)
+* [Solution](https://puneethkshetty.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
